@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function playSong(index) {
     if (!files[index]) return;
     currentSong = index;
-    audio.src = "songs/" + files[index];
+    audio.src = files[index];
     audio.play();
 
     if (backdrop) backdrop.style.backgroundImage = `url('${images[index]}')`;
