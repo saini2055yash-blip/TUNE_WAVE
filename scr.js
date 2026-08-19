@@ -25,26 +25,26 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
 
   const images = [
-    "images/Tareefan.jfif",
-    "images/Wajah Bewajah (From Do Deewane Seher Mein).jfif",
-    "images/Samjhawan.jfif",
-    "images/Nazare.jfif",
-    "images/Kasturi (From Amar Prem Ki Prem Kahani).jfif",
-    "images/Thinking of You.jfif",
-    "images/Iss Tarah.jfif",
-    "images/Khat.jfif",
-    "images/O Meri Laila.jfif",
-    "images/Dil.jfif",
-    "images/Bam Lahiri.jfif",
-    "images/Lae Dooba.jfif",
-    "images/Shararat.jfif",
-    "images/Main Hoon.jfif",
-    "images/Qubool.jfif",
-    "images/Parvati Boli Shankar Se.jfif",
-    "images/Preet Re.jfif",
-    "images/Apna Bana Le.jfif",
-    "images/Nazm Nazm.jfif",
-    "images/Saiyara.jfif"
+    "Tareefan.jfif",
+    "Wajah Bewajah (From Do Deewane Seher Mein).jfif",
+    "Samjhawan.jfif",
+    "Nazare.jfif",
+    "Kasturi (From Amar Prem Ki Prem Kahani).jfif",
+    "Thinking of You.jfif",
+    "Iss Tarah.jfif",
+    "Khat.jfif",
+    "O Meri Laila.jfif",
+    "Dil.jfif",
+    "Bam Lahiri.jfif",
+    "Lae Dooba.jfif",
+    "Shararat.jfif",
+    "Main Hoon.jfif",
+    "Qubool.jfif",
+    "Parvati Boli Shankar Se.jfif",
+    "Preet Re.jfif",
+    "Apna Bana Le.jfif",
+    "Nazm Nazm.jfif",
+    "Saiyara.jfif"
   ];
 
   const audio = new Audio();
